@@ -2216,3 +2216,13 @@ section {
   .gallery__buttons {
     margin-top: 100px;
   }
+
+  .gallery__buttons .btn {
+    color: #444444;
+    background-color: #fff;
+  }
+
+  .gallery__buttons .btn:hover {
+    color: #fff;
+    background-color: #d9232d;
+  }
