@@ -1,0 +1,154 @@
+        
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Metallic Coin  Design Clock 18Inches WC631.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1000</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Metallic Coin Clock 12Inches WC619.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1001</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Metallic Flower Design Clock 18Inches WC629.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1002</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Metallic Hexagon Design Clock 18Inches WC634.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1003</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Metallic Zodiac  Design Clock 18Inches WC636.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1004</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden  Diamond Single  Peacock Clock Lt12 Bd12 WC616.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1005</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Circle Down Double Opposite Facing  Peacock Clock Lt12 Bd18 WC624.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1006</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Double Opposite Facing  Peacock Clock Lt12 Bd18 WC621.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1007</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Double Opposite Facing Peacock Clock Lt12 Bd12  WC612.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1008</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Double Peacock Facing Each Other Clock Lt12 Bd16 WC617.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1009</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Double Same Side  Facing Peacock Lt12 Bd12 Clock WC614.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1010</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Down Single Peacock Clock Lt12 Bd12 WC648.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1011</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Single  Peacock Clock Lt12 Bd12 WC715.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1012</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Single  Peacock With Leaf  Clock Lt12 Bd18 WC622.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1013</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Square  Down Double Opposite Facing  Peacock Clock Lt12 Bd18 WC625.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1014</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Square Single  Peacock Clock Lt12 Bd12 WC615.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1015</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 10 gallery__container">
+          <img class="img-fluid " src="assets/resize/Wooden Clocks/Wooden Up Double Same  Facing  Peacock Clock Lt18 Bd18 WC638.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">WC 1016</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+      

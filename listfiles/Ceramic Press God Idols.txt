@@ -1,0 +1,37 @@
+        
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 3 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Press God Idols/Ceramic Pressed Ganesha Idols WSSt001.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CG 3000</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 3 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Press God Idols/Ceramic Pressed Ganesha Idols WSSt002.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CG 3001</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 3 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Press God Idols/Ceramic Pressed Ganesha Idols WSSt003.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CG 3002</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 3 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Press God Idols/Ceramic Pressed Ganesha Idols WSSt004.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CG 3003</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+      

@@ -1,0 +1,46 @@
+        
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 4 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Pressed Dolls/Ceramic Pressed  Blue Stone Work Buddha CP695.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CD 4000</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 4 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Pressed Dolls/Ceramic Pressed  Pink  Plain Buddha CP701.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CD 4001</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 4 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Pressed Dolls/Ceramic Pressed  Red Stone Work Buddha CP699.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CD 4002</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 4 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Pressed Dolls/Ceramic Pressed  Yellow Plain Buddha CP700.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CD 4003</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+              
+      <!-- Grid column -->
+        <div class="mb-3 pics animation all 4 gallery__container">
+          <img class="img-fluid " src="assets/resize/Ceramic Pressed Dolls/Ceramic Pressed Blue  Plain Buddha CP697.jpg" alt="Craft item image" style="width: 100%;">
+          <div class="gallery__middle">
+            <div class="gallery__text">CD 4004</div>
+          </div>
+        </div>
+      <!-- Grid column -->
+      

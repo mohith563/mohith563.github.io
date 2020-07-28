@@ -1,0 +1,448 @@
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/3  Elephant String With Ganesha on Top JA474.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Bamboo Stick With 5 Elephant Hanging JA508.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Blue Tea Light Holder JA446.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Cloth  Parrot Thoranam JA532.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Doll Thoranam JA530.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Ganesha with Leaf And Subh Labh Thoranam 001 JA522.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Ganesha With Leaf And Subh Labh Thoranam 002  JA516.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Gold Nuts Storage Tray JA567.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Green And Blue Tea Light Holder JA448.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Green Tea Light Holder JA444.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Kalasam with Leaf Thoranam JA526.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Multi Color  5 Bell  Thoranam JA534.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Multi Color Flower Design  Tea Light Holder JA440.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Multi Color Tea Light Holder JA436.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Multi Color Umbrella JA553.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Multi Color Umbrella JA555.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Pink Tea Light Holder JA450.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Puppet Green  Pair JA480.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Puppet Orange Pair JA476.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Puppet Red  Pair JA484.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Red  Color Umbrella JA550.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Red Tea Light Holder JA438.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Red Woolen Balls And Parrot Thoranam JA536.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Silver  Nuts Storage   Tray JA571.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Silver  Nuts Storage Small  Tray JA570.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single Bell And Parrot Red  Thoranam JA528.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String 3 Elephant Hanging JA469.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Cloth  Parrot Hanging JA486.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Cloth Elephant Hanging   JA514.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Elephant Hanging JA463.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Elephant in Ring  Hanging JA510.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Elephant With Bell Hanging JA512.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Parrot in Ring  Hanging JA506.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Single String Woolen Balls And Parrot Hanging JA539.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Small   Umbrella JA547.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Small  Umbrella JA552.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/S_810489.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/S_810492.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Tiny  Tortoise  JA577.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Tiny Elephant JA581.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Tiny Horse JA579.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Umbrella  5 Elephant Hanging JA467.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Umbrella 20 Elephant Hanging JA494.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Umbrella 3 Elephant Hanging JA497.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Umbrella 3 Elephant Hanging JA499.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Umbrella 5 Elephant Hanging Red JA501.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Book Cutter  JA575.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Book Mark JA584.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Elephant Small  JA454.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Folding Chair  With Black  Elephant JA665.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Folding Chair  With White Elephant JA664.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Green Stone  Work Black Elephant Set Of 4 JA424.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Jali Owl Set Of 4 JA431.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Pearl Work Black Elephant Set Of 4 JA422.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Wooden Pearl Work Blue  Elephant Set Of 4 JA426.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 7 gallery__container">
+<img class="img-fluid" src="assets/resize/Jaipur/Yellow Tea Light Holder JA442.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->

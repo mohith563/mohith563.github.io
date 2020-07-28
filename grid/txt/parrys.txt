@@ -1,0 +1,16 @@
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 8 gallery__container">
+<img class="img-fluid" src="assets/resize/Parrys/Flower Garland Mixed P713.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
+<!-- Grid Column --> 
+<div class="mb-3 pics animation all 8 gallery__container">
+<img class="img-fluid" src="assets/resize/Parrys/Flower Garland Plain P710.jpg" alt="Card image cap">
+ <div class="gallery__middle">
+<div class="gallery__text">John Doe</div>
+</div>
+</div>
+<!-- Grid Column -->
