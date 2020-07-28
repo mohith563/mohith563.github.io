@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohith's Portfolio website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" 
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" 
+        integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" 
+        crossorigin="anonymous" /> 
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="img/logo.jpg" alt="" />
+        </div>
+        <button class="nav-toggle" aria-label="toggle navigation">
+            <span class="hamburger"> </span>
+        </button>
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__items">
+                    <a class="nav__link" href="#home">Home</a>
+                </li>
+                <li class="nav__items">
+                    <a class="nav__link" href="#services">Services</a>
+                </li>
+                <li class="nav__items">
+                    <a class="nav__link" href="#about">About me</a>
+                </li>
+                <li class="nav__items">
+                    <a class="nav__link" href="#work">My Work</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Intro -->
+    <section class="intro" id="home">
+        <h1 class="section__title section__title--intro">
+            Hi, I am <strong>Mohith</strong>
+        </h1>
+        <p class="section__subtitle section__subtitle--intro">
+            Budding Developer 
+        </p>
+        <img src="img/Mohith.jpg" width=200px alt="a picture of mohith" class="intro__img"/>
+    </section>
+
+    <!-- My Services -->
+    <section class="my-services" id="services">
+        <h2 class="section__title section__title--services">
+            What I Do
+        </h2>
+        <div class="services">
+            <div class="service">
+                <h3>
+                    Python Django Developer
+                </h3>
+                <p>
+                    I chose to learn Django because it is open-source and very reliable.
+                    While working with Django, there is no need to reinvent the wheel.
+                    I love python and love django even more.
+                </p>
+            </div> <!-- service -->
+            <div class="service">
+                <h3>
+                    ReactJS Developer
+                </h3>
+                <p>
+                    Did I choose React or did React choose me? Vanilla javascript and jQuery
+                    were intimidating when I started out. I knew there should be a way around
+                    and that was React. I have worked with Redux and my work below will speak 
+                    for itself.
+                </p>
+            </div> <!-- service -->
+            <div class="service">
+                <h3>
+                    Front-end Developer
+                </h3>
+                <p>
+                    My love for CSS grows everyday and it never ceases to amaze me what a 
+                    few lines of styling can bring to an otherwise bland website. Front end 
+                    is where the real fun is at!
+                </p>
+            </div> <!-- service -->
+        </div> <!-- services -->
+        <a href="#work" class="btn">My Work</a>
+    </section>
+
+    <!-- About me -->
+    <section class="about-me" id="about">
+        <h2 class="section__title section__title--about">Who I am</h2>
+        <p class="section__subtitle section__subtitle--about">Full stack developer based out of Chennai</p>
+        <div class="about-me__body">
+            <p>I'm an undergraduate in Electronics and communication Engineering. 
+                That begs the question what am I doing? My passion for coding has
+                superseded everything and I love doing what I'm currently doing.
+                Isn't that what life is about?
+            </p>
+        </div>
+        <img src="img/leaning.jpeg" class="about-me__img" alt="" />
+    </section>
+
+    <!-- My Work -->
+    <section class="my-work" id="work">
+        <h2 class="section__title section__title--work">
+            My Work
+        </h2>
+        <p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
+        <div class="portfolio">
+            <!-- Portfolio item -->
+            <a href="portfolio_item.html" class="portfolio__item"> <!-- todo -->
+                <img src="img/todo.PNG" alt="" class="portfolio__img"/>
+            </a>
+            <!-- Portfolio item -->
+            <a href="portfolio_item2.html" class="portfolio__item"> <!-- blog -->
+                <img src="img/article.PNG" alt="" class="portfolio__img" />
+            </a>
+            <!-- Portfolio item -->
+            <a href="portfolio_item3.html" class="portfolio__item"> <!-- csv reader -->
+                <img src="img/csv.png" alt="" class="portfolio__img" />
+            </a>
+            
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <a href="mailto:ramoh563@gmail.com" class="footer__link">
+            ramoh563@gmail.com
+        </a>
+        <ul class="social__list">
+            <li class="social__list--item">
+                <a class="social__list--link" href="https://www.linkedin.com/in/mohith-ranganathan-568044130/">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+            </li>
+            <li class="social__list--item">
+                <a class="social__list--link" href="https://twitter.com/sherlockedguy">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+            <li class="social__list--item">
+                <a class="social__list--link" href="https://github.com/mohith563">
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+        </ul>
+    </footer>
+    <script src="js/index.js"></script>
+</body>
+</html>

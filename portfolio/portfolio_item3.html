@@ -1,0 +1,97 @@
+<!-- Csv reader -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohith's Portfolio website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" 
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" 
+        integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" 
+        crossorigin="anonymous" /> 
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="img/logo.jpg" alt="" />
+        </div>
+        <button class="nav-toggle" aria-label="toggle navigation">
+            <span class="hamburger"> </span>
+        </button>
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__items">
+                    <a class="nav__link" href="index.html">Home</a>
+                </li>
+                <li class="nav__items">
+                    <a class="nav__link" href="index.html#services">Services</a>
+                </li>
+                <li class="nav__items">
+                    <a class="nav__link" href="index.html#about">About me</a>
+                </li>
+                <li class="nav__items">
+                    <a class="nav__link" href="index.html#work">My Work</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="intro">
+        <h1 class="section__title section__title--intro">
+            Csv reader using
+        </h1>
+        <p class="section__subtitle section__subtitle--intro">
+            Django and React
+        </p>
+        <img src="img/csvfront.PNG" width=200px alt="a picture of mohith" class="intro__img"/>
+    </section>
+
+    <div class="portfolio-item-individual">
+        <p>
+            I built this to read data from a csv file and then store it in the database.
+        </p>
+        <img src="img/csvfront.PNG" alt=""/>
+        <div style="height: 5px; "></div>
+        <img src="img/csvback.PNG" alt=""/>
+        <p>
+            For the backend, I used Django rest framework's <code>@api_view</code> decorator
+             for receiving the csv file. I used the csv and io libraries for parsing the data
+             inside the csv file and then saved it in the database.
+        </p>
+        <p>
+            For the frontend, I used axios for sending the file uploaded to the django backend.
+            I ran into issues with csrf token for post requests and then got it working. It works
+            perfectly now.
+        </p>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <a href="mailto:ramoh563@gmail.com" class="footer__link">
+            ramoh563@gmail.com
+        </a>
+        <ul class="social__list">
+            <li class="social__list--item">
+                <a class="social__list--link" href="https://www.linkedin.com/in/mohith-ranganathan-568044130/">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+            </li>
+            <li class="social__list--item">
+                <a class="social__list--link" href="https://twitter.com/sherlockedguy">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+            <li class="social__list--item">
+                <a class="social__list--link" href="https://github.com/mohith563">
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+        </ul>
+    </footer>
+    <script src="js/index.js"></script>
+</body>
+</html>
