@@ -125,7 +125,7 @@
 
           <div class="col-lg-8 mt-5 mt-lg-0">
 
-            <form data-netlify="true" method="post" name="contact">
+            <form data-netlify="true" method="post" role="form" name="contact">
               <div class="form-row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -144,7 +144,6 @@
                 <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                 <div class="validate"></div>
               </div>
-              
               <div data-netlify-recaptcha="true"></div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
