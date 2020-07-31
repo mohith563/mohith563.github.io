@@ -1,2 +1,3 @@
-[build]
-base = "mc/"
+[[redirects]]
+from = "/"
+to = "mc/"
